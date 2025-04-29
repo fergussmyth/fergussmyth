@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fergus</h1>
-<h3 align="center">A student learning JavaScript and Python from the UK.</h3>
+<h3 align="center">A student learning Python from the UK.</h3>
 
 - 🌱 I’m currently learning **JavaScript**
 
