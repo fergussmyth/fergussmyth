@@ -1,14 +1,34 @@
 <h1 align="center">Hi 👋, I'm Fergus</h1>
-<h3 align="center">A student learning Python from the UK.</h3>
 
-- 🌱 I’m currently learning **JavaScript**
+I'm currently on a focused journey to become a **Software Engineer specialized in AI**, with a strong interest in machine learning, LLMs, and building real-world AI tools.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/fergus-smyth-082956279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fergus-smyth-082956279" height="30" width="40" /></a>
-</p>
+## 🚀 What I'm Working On
+- Learning **Python** and programming fundamentals
+- Exploring how AI and machine learning work
+- Building small practice projects to develop my coding skills
+- Publishing my code and learnings right here
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🛠️ Languages & Tools
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
+![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fergussmyth&show_icons=true&locale=en" alt="fergussmyth" /></p>
+## 📚 Learning Now
+- Python basics (syntax, functions, loops, classes)
+- Version control with Git and GitHub
+- How the internet works (client/server, HTTP)
+- Problem solving with simple algorithms
+
+## 🌱 Upcoming Projects
+- A command-line calculator in Python
+- A beginner AI chatbot using if/else logic
+- My first GitHub-hosted portfolio
+
+## 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/yourusername)
+- [Twitter](https://twitter.com/yourusername)
+
+---
+
+> "The best way to learn AI is to build with it."
