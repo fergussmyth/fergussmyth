@@ -15,10 +15,10 @@ I'm currently on a focused journey to become a **Software Engineer specialized i
 ![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
 
 ## 📚 Learning Now
-- Python basics (syntax, functions, loops, classes)
-- Version control with Git and GitHub
-- How the internet works (client/server, HTTP)
-- Problem solving with simple algorithms
+- Data structures and algorithms (lists, stacks, queues, recursion, sorting)
+- Writing clean, modular, testable Python code
+- Solving beginner-level problems on LeetCode & HackerRank
+- Basics of object-oriented programming (OOP) and design principles
 
 ## 🌱 Upcoming Projects
 - A command-line calculator in Python
