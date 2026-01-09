@@ -1,32 +1,57 @@
-<h1 align="center">Hi 👋, I'm Fergus</h1>
+# Hi 👋, I'm Fergus
 
-I'm currently on a focused journey to become a **Software Engineer specialized in AI**, with a strong interest in machine learning, LLMs, and building real-world AI tools.
+I'm currently on a focused journey into **Cybersecurity**, with a strong interest in **offensive security**, ethical hacking, and understanding how systems are broken — and secured — in the real world.
+
+---
 
 ## 🚀 What I'm Working On
-- Learning **Python** and programming fundamentals
-- Exploring how AI and machine learning work
-- Building small practice projects to develop my coding skills
-- Publishing my code and learnings right here
 
-## 🛠️ Languages & Tools
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-333?style=flat&logo=visualstudiocode)
-![Linux](https://img.shields.io/badge/-Linux-333?style=flat&logo=linux)
+- Learning cybersecurity fundamentals with a focus on **offensive security**
+- Practicing hands-on skills through real-world labs and challenges
+- Building a strong foundation in networking, security concepts, and cloud platforms
+- Documenting my progress and projects here on GitHub
 
-## 📚 Learning Now
-- Data structures and algorithms (lists, stacks, queues, recursion, sorting)
-- Writing clean, modular, testable Python code
-- Solving beginner-level problems on LeetCode & HackerRank
-- Basics of object-oriented programming (OOP) and design principles
+---
+
+## 🛠️ Current Focus
+
+- Working through **OverTheWire – Bandit** levels
+- Developing a Linux-first mindset for security and networking
+- Understanding how attackers think, move, and exploit systems
+
+---
+
+## 📚 Learning Roadmap
+
+- ✅ OverTheWire (Bandit)
+- ⏳ **Google Cybersecurity Certificate (Entry Level)**
+- ⏳ **CompTIA Security+**
+- ⏳ **CompTIA Network+** *(order may vary based on progress)*
+- ⏳ **AWS Certification**
+- 🚧 Begin building and publishing **personal cybersecurity projects**
+
+---
+
+## 🧰 Tools & Technologies
+
+- Linux
+- Bash / Command Line
+- Git & GitHub
+- Networking fundamentals
+- Security concepts (CIA triad, threats, vulnerabilities, risk)
+
+---
 
 ## 🌱 Upcoming Projects
-- A command-line calculator in Python
-- A beginner AI chatbot using if/else logic
-- My first GitHub-hosted portfolio
+
+- Linux-based security labs and writeups
+- Basic reconnaissance and enumeration scripts
+- Network scanning and analysis practice
+- Cloud security fundamentals (AWS)
+- Personal GitHub-hosted cybersecurity portfolio
+
+---
 
 ## 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/fergus-smyth-082956279?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
----
 
-> "The best way to learn AI is to build with it."
